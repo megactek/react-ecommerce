@@ -96,7 +96,7 @@
     z-index: 10;
     padding: 15px;
     display: flex;
-    align-items: start;
+    justify-content: flex-start;
     flex-direction: column;
     background: var(--card-bg-01);
     line-height: 30px;

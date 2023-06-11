@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col } from "reactstrap";
+import { Container, Row } from "reactstrap";
 import useAuth from "../custom-hooks/useAuth";
 import "../styles/admin-nav.css";
 import { NavLink } from "react-router-dom";
